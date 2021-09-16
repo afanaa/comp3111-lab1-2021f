@@ -1,3 +1,3 @@
 arthur
 12345679
-![the screenshot](Screenshot1.png)
+![the screenshot](Screenshot 1.png)
